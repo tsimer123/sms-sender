@@ -1,0 +1,20 @@
+/env/
+*/dist/
+*/build/
+/.vscode/
+/__pycache__/
+*/__pycache__/
+*/*/__pycache__/
+.env
+.env copy
+*.xlsx
+*.zip
+*.db
+*.log
+*.db-journal
+/src/test.py
+/src/test2.py
+/src/test3.py
+*.spec
+icon.ico
+test_test3.py
